@@ -1,4 +1,4 @@
 {
-  "Power": "on",
-  "Password": "MmR"
+  "Power":"on",
+  "Password":"MmR"
 }
