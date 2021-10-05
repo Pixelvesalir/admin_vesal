@@ -1,1 +1,4 @@
-{ "power": "on" }, { "password": "wow" }
+{
+  "Power": "on",
+  "Password": "MmR"
+}
