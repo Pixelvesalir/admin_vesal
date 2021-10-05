@@ -1,6 +1,6 @@
 {
-  "Condition":"on"
+  "power":"on"
 }
 {
-  "متن":"سلام"
+  "condition":"wow"
 }
