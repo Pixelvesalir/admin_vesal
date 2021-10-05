@@ -1,11 +1,11 @@
+[
 {
-  "power":"on"
-}
-
+"power":"on"
+},
 {
-  "condition":"wow"
-}
-
+"condition":"wow"
+},
 {
-  "password":"MmR"
+"password":"MmR"
 }
+]
