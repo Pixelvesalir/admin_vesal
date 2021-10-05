@@ -1,6 +1,1 @@
-{
-"power":"on"
-},
-{
-"condition":"wow"
-}
+[ { "power": "on" }, { "password": "wow" } ]
