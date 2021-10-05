@@ -4,3 +4,6 @@
 {
   "condition":"wow"
 }
+{
+  "password":"MmR"
+}
