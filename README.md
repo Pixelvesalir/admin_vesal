@@ -1,8 +1,6 @@
-[
 {
 "power":"on"
 },
 {
 "condition":"wow"
 }
-]
