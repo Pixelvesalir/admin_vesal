@@ -1,1 +1,6 @@
-# admin_vesal
+{
+  "Condition":"on"
+}
+{
+  "متن":"سلام"
+}
