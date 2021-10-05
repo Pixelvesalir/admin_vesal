@@ -4,8 +4,5 @@
 },
 {
 "condition":"wow"
-},
-{
-"password":"MmR"
 }
 ]
